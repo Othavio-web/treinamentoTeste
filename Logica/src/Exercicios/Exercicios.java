@@ -81,5 +81,5 @@ public class Exercicios {
         }
         System.out.println("a resposta da operação é:"+res);
     }
-
+    
 }
